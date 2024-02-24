@@ -10,7 +10,7 @@ System.out.println(" - 👋 Hi, I’m @EyeOfRex")
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me <eye_of_rex@hotmail.com>
-String 😄 Pronouns = EOR (Eye_Of_Rex)
+- String 😄 Pronouns = EOR (Eye_Of_Rex)
 - ⚡ Fun fact: I love cookie
 //the cookies are so good
 <!---
